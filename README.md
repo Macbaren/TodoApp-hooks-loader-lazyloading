@@ -1,3 +1,6 @@
+Firebase deployed app here - 
+https://react-hooks-6af17.firebaseapp.com/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
